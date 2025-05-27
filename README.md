@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aryan
-- 🌱 I’m currently learning Java
 
 <!---
 Aryan25875/Aryan25875 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
