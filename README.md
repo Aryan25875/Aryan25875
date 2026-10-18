@@ -1,11 +1,16 @@
 ```console
 aryan@github:~$ whoami
-Aryan Pagare — Computer Science student & developer
+Aryan Pagare
 
 aryan@github:~$ cat about.txt
-> Interested in C++, DSA and backend development
-> Building practical software, learning through projects and problem-solving
-> Currently working on: clg_lyf (in progress)
+role      : Computer Science student interested in software development and problem-solving
+building  : clg_lyf  (github.com/Aryan25875/clg_lyf)
+learning  : C++, DSA, Node.js, Express.js, MongoDB, backend development
+open_to   : collaborating on open-source projects and hackathons
+ask_me    : C++, DSA, JavaScript, Node.js, Express.js, MongoDB
+contact   : aryanpagare2505@gmail.com
+
+aryan@github:~$ _
 ```
 
 ---
@@ -43,6 +48,21 @@ Natural-language assistant for satellite imagery. Upload an image or a paired se
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🎓 [clg_lyf](https://github.com/Aryan25875/clg_lyf) &nbsp;·&nbsp; *currently working on*
+
+Anonymous community platform for verified college students. Registration is limited to an institutional email domain (OTP verification), and users then interact under anonymous usernames. Backend supports posts with image uploads, threaded comments, likes/dislikes and polls.
+
+`Node.js` `Express` `MongoDB` `JWT` `Zod` `ImageKit`
+
+**Role:** author &nbsp;·&nbsp; **Status:** in progress (backend; frontend, chat rooms and moderation planned)
+
+[Explore repository →](https://github.com/Aryan25875/clg_lyf)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -75,15 +95,15 @@ focus      : Data Structures & Algorithms, competitive programming
 
 ### `$ cat links.txt`
 
-```text
-github   : https://github.com/Aryan25875
-email    : aryanpagare2505@gmail.com
-```
-
-<!--
-Coding profiles (CodeChef, Codeforces, LeetCode, HackerRank, GeeksforGeeks):
-add your real profile URLs here, e.g.
-[CodeChef](https://www.codechef.com/users/YOUR_HANDLE) · [Codeforces](https://codeforces.com/profile/YOUR_HANDLE) · ...
--->
+| | |
+|---|---|
+| `github` | [Aryan25875](https://github.com/Aryan25875) |
+| `linkedin` | [aryan-pagare](https://www.linkedin.com/in/aryan-pagare-22b6aa380/) |
+| `email` | [aryanpagare2505@gmail.com](mailto:aryanpagare2505@gmail.com) |
+| `codechef` | [quaint_rats_16](https://www.codechef.com/users/quaint_rats_16) |
+| `codeforces` | [C_odd_A](https://codeforces.com/profile/C_odd_A) |
+| `leetcode` | [qI2jfDAbFp](https://leetcode.com/u/qI2jfDAbFp/) |
+| `hackerrank` | [aryanpagare2505](https://www.hackerrank.com/profile/aryanpagare2505) |
+| `geeksforgeeks` | [aryanpag12d2](https://www.geeksforgeeks.org/profile/aryanpag12d2) |
 
 <div align="center"><sub><code>aryan@github:~$ <b>_</b></code></sub></div>
