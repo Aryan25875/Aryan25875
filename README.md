@@ -33,9 +33,11 @@ Automated camera-trap triage and individual tiger movement intelligence system f
 
 Collaborative project (repository owned by [@shashankj015](https://github.com/shashankj015)).
 
-<!-- TODO: add a one-line description and tech stack after confirming them from the repo. -->
+Natural-language assistant for satellite imagery. Upload an image or a paired set (optical + SAR, or two dates), ask a question, and a task router sends it to the right vision model. Returns an answer with visual evidence and an audit trail of which model produced it.
 
-**Role:** contributor — <!-- TODO: describe your actual contribution -->
+`Python` `FastAPI` `PyTorch` `Hugging Face Transformers` `rasterio / GDAL` `SQLite`
+
+**Role:** contributor — AI and backend development
 
 [Explore repository →](https://github.com/shashankj015/SatQuery-AI)
 
