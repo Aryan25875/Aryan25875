@@ -1,17 +1,8 @@
-```console
-aryan@github:~$ whoami
-Aryan Pagare
+<div align="center">
 
-aryan@github:~$ cat about.txt
-role      : Computer Science student interested in software development and problem-solving
-building  : clg_lyf  (github.com/Aryan25875/clg_lyf)
-learning  : C++, DSA, Node.js, Express.js, MongoDB, backend development
-open_to   : collaborating on open-source projects and hackathons
-ask_me    : C++, DSA, JavaScript, Node.js, Express.js, MongoDB
-contact   : aryanpagare2505@gmail.com
+<img src="./assets/about-typing.svg" alt="Terminal output. aryan@github:~$ whoami: Aryan Pagare. aryan@github:~$ cat about.txt: role: Computer Science student interested in software development and problem-solving; building: clg_lyf (github.com/Aryan25875/clg_lyf); learning: C++, DSA, Node.js, Express.js, MongoDB, backend development; open_to: collaborating on open-source projects and hackathons; ask_me: C++, DSA, JavaScript, Node.js, Express.js, MongoDB; contact: aryanpagare2505@gmail.com" width="100%" />
 
-aryan@github:~$ _
-```
+</div>
 
 ---
 
